@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="恰柠檬项目">
+    <test name="用户接口">
+        <classes>
+            <class name="testcase.Registertest"/>
+            <class name="testcase.Logintest"/>
+        </classes>
+    </test>
+</suite>
